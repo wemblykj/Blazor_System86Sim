@@ -1,0 +1,5 @@
+C:\Users\paulw\Source\Repos\wemblykj\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.csproj.AssemblyReference.cache
+C:\Users\paulw\Source\Repos\wemblykj\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulw\Source\Repos\wemblykj\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.AssemblyInfoInputs.cache
+C:\Users\paulw\Source\Repos\wemblykj\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.AssemblyInfo.cs
+C:\Users\paulw\Source\Repos\wemblykj\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.csproj.CoreCompileInputs.cache
