@@ -1,7 +1,9 @@
 ﻿namespace Simulation
 {
-    public interface ISimulationContext
+    public interface ISimulationContext : IContext
     {
+        IModel Model { get; }
+
         // environment
         ISimulationParameters Parameters { get; }
 

@@ -1,6 +1,6 @@
 ﻿namespace Simulation
 {
-    public interface ISimulationState
+    public interface ISimulationState : IState
     {
         double ElapsedTime { get; }
     }

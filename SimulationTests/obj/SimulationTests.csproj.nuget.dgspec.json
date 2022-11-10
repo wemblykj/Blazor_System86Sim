@@ -33,7 +33,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj": {
+                "projectPath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -63,6 +67,67 @@
               "version": "[3.1.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
+        "projectName": "Simulation",
+        "projectPath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
+        "packagesPath": "C:\\Users\\dev.paul.wightmore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dev.paul.wightmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\dev.paul.wightmore\\Documents\\Development\\NuGet Repo": {},
+          "http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/feed/Archimedes/Components/v1": {},
+          "http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
