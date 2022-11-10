@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "r57D4BR7y3AyB6FI/apZKoqKseZoGVZojoU4TF6srO7x3Gglt2HPiiigcAXemRAVsboIFvC/cVJ6/vyAYCj4iw==",
+  "dgSpecHash": "v5NP7DH6nwH8+ugkgnAO+DbMN5vACTdCNTv5CXsJ2Xat6Bi3K6cht5YLCDkIXlwUTtmDn3i1yGk6wD++u3FM8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulw\\Source\\Repos\\wemblykj\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
+  "projectFilePath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/v1/FeedService.svc'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/feed/Archimedes/Components/v1'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

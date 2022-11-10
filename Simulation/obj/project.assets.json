@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\paulw\\.nuget\\packages\\": {}
+    "C:\\Users\\dev.paul.wightmore\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulw\\Source\\Repos\\wemblykj\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
+      "projectUniqueName": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
       "projectName": "Simulation",
-      "projectPath": "C:\\Users\\paulw\\Source\\Repos\\wemblykj\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
-      "packagesPath": "C:\\Users\\paulw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulw\\Source\\Repos\\wemblykj\\Blazor_System86Sim\\Simulation\\obj\\",
+      "projectPath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\Simulation.csproj",
+      "packagesPath": "C:\\Users\\dev.paul.wightmore\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev.paul.wightmore\\source\\repos\\Blazor_System86Sim\\Simulation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\paulw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dev.paul.wightmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +32,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\dev.paul.wightmore\\Documents\\Development\\NuGet Repo": {},
+        "http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/feed/Archimedes/Components/v1": {},
+        "http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/v1/FeedService.svc": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net6.0": {
@@ -61,8 +68,22 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.5.22307.18\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/v1/FeedService.svc'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://wpm-uk-teamcity.app.cryohost.net/guestAuth/app/nuget/feed/Archimedes/Components/v1'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
