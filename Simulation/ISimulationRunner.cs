@@ -2,6 +2,6 @@
 {
     public interface ISimulationRunner
     {
-        void Run(IContext context, IModel model, int iterations);
+        void Run(IContext context, int iterations);
     }
 }

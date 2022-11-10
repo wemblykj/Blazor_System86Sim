@@ -8,3 +8,10 @@ C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug
 C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.AssemblyInfoInputs.cache
 C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.AssemblyInfo.cs
 C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\bin\Debug\net6.0\Simulation.deps.json
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\bin\Debug\net6.0\Simulation.dll
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\bin\Debug\net6.0\Simulation.pdb
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.dll
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\refint\Simulation.dll
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\Simulation.pdb
+C:\Users\dev.paul.wightmore\source\repos\Blazor_System86Sim\Simulation\obj\Debug\net6.0\ref\Simulation.dll

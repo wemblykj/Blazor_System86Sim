@@ -1,11 +1,11 @@
 namespace Simulation
 {
+
     public interface IContext
     {
-        // environment
-        double Timestep { get; }
+        IModel model { get; }
 
-        // state
-        double ElapsedTime { get; }
+        // environment
+        ISimulationContext Simulation { get; }
     }
 }
